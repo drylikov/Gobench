@@ -29,4 +29,3 @@ $ gobench foo bar
 $ gobench foo baz
 $ gobench baz bar
 ```
-
