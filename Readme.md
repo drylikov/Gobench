@@ -31,4 +31,3 @@ $ gobench baz bar
 ```
 
 
-
