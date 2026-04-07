@@ -1,5 +1,4 @@
-
-# gobench
+# Gobench.
 
 Tiny utility around [benchcmp](https://godoc.org/golang.org/x/tools/cmd/benchcmp).
 
