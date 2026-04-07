@@ -1,6 +1,6 @@
 # Gobench.
 
-Tiny utility around [benchcmp](https://godoc.org/golang.org/x/tools/cmd/benchcmp).
+Tiny utility around [benchcmp](https://godoc.org/golang.org/x/tools/cmd/benchcmp) .
 
 ## Usage
 
