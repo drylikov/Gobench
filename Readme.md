@@ -166,4 +166,3 @@ $ gobench baz bar
 
 
 
-
