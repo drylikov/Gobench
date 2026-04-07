@@ -79,4 +79,3 @@ $ gobench baz bar
 
 
 
-
